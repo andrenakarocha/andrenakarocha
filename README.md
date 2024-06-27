@@ -1,38 +1,57 @@
-# 👨‍💻 André N. Rocha
+<h1 align="center">Hi 👋! My name is André N. Rocha</h3>
 
-*Software Engineering Student, always learning...* 🖊️
+###
 
+*🖊️ - Software Engineering Student, always learning...*
+
+*🧠 - Currently learning more about Python*
+
+###
+
+## 💡 My Skills
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
 
 ## 🌐 Connect with Me!
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=2d6bf6)](mailto:andrenakarocha@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/andr%C3%A9-rocha-233373295/)
+###
 
-
-## 💡 Skills
-
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=2d6bf6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=2d6bf6)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=30A3DC)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=2d6bf6)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-
+<div align="left">
+  <a href="www.linkedin.com/in/andrenakarocha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="andrenakarocha@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/andrenakarocha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrenakarocha&theme=transparent&bg_color=000&border_color=1586b9&show_icons=true&icon_color=1586b9&title_color=2d6bf6&text_color=FFF" alt="André's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrenakarocha&layout=compact&bg_color=000&border_color=1586b9&title_color=2d6bf6&text_color=FFF" alt="Top Languages" />
-</div>
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/andrenakarocha/repo/issues).
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thank%20You%20for%20visiting!-000?style=for-the-badge&logo=github&logoColor=30A3DC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrenakarocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrenakarocha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrenakarocha&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
