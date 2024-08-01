@@ -46,8 +46,12 @@
 </div>
 
 ## 📊 GitHub Stats
+<div align="center">
+  
+  ![andrenakarocha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenakarocha&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrenakarocha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="160" alt="languages graph"/>
-  <img src="https://streak-stats.demolab.com?user=andrenakarocha&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5" height="160" alt="streak graph"/>
+  
+  ![andrenakarocha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrenakarocha&theme=gotham&hide_border=false)
 </div>
