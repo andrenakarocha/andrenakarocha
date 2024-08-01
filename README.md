@@ -4,7 +4,7 @@
 
 *🖊️ - Software Engineering Student, always learning...*
 
-*🧠 - Currently learning more about Python*
+*🧠 - Currently learning Java*
 
 ###
 
