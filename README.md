@@ -4,7 +4,7 @@
 
 *🖊️ - Software Engineering Student, always learning...*
 
-*🧠 - Currently learning Java*
+*🧠 - Currently learning backend development*
 
 ###
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,git,github&theme=dark">
+    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,nodejs,nestjs,py,git,github,postgres,prisma&theme=dark">
   </a>
 </p>
 
