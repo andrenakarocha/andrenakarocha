@@ -2,9 +2,9 @@
 
 ###
 
-*🖊️ - Software Engineering Student, always learning...*
+*🖊️ - FullStack Developer, always learning...*
 
-*🧠 - Currently learning backend development*
+*🧠 - Currently focused on backend development*
 
 ###
 
@@ -41,5 +41,5 @@
 
 <div align="center">
   
-  ![andrenakarocha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrenakarocha&theme=gotham&hide_border=false)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrenakarocha&theme=gotham)](https://git.io/streak-stats)
 </div>
