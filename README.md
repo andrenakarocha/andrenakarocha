@@ -32,14 +32,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-## 📊 GitHub Stats
-<div align="center">
-  
-  ![andrenakarocha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrenakarocha&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrenakarocha&theme=gotham)](https://git.io/streak-stats)
-</div>
